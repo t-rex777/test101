@@ -1,0 +1,5 @@
+1.npm init
+2.npm i [package_names]
+3.index.js => create server => models , routes, controllers
+4.DB connection
+5.created user and saved it on DB
