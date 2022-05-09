@@ -17,3 +17,12 @@
     "mongoose": "^6.3.2"
   }
 }
+
+
+/*
+npm init
+npm i [package_names]
+index.js => create server => models , routes, controllers
+DB connection
+created user and saved it on DB
+*/
